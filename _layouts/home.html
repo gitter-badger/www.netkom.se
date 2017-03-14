@@ -1,0 +1,20 @@
+---
+layout: archive
+---
+
+<div id="index">
+	<h5>Some description.
+	<br>More text ...</h5>
+	<br>
+	<a href="{{ site.url}}/about" class="btn btn--inverse pull-right">About the project</a>
+
+  <a href="{{ site.url}}/notes" class="btn">View Notes</a>
+</div>
+
+<h3><a href="{{ site.url}}/notes/">Latest Notes</a></h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
