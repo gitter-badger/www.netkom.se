@@ -1,0 +1,27 @@
+# Authors
+
+Ojn:
+  name:           ojn
+  avatar:         "/images/tux.png"
+  bio:            "netkom"
+  location:
+  uri:            "https://www.netkom.se"
+  email:
+  twitter:        
+  facebook:       
+  ello:           
+  wordpress:
+  github:         "ojn"
+  pinterest:      
+  tumblr:         
+  google_plus:    
+
+Guest Author:
+  name:           Guest
+  avatar:         "/images/tux.png"
+  bio:            "something"
+  location:
+  uri:            "http://example.com"
+  email:          name@example.com
+  twitter:        "guest"
+  google_plus:    "Guest"
