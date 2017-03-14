@@ -15,5 +15,17 @@ header:
   image: /images/jekyll.png
   caption: "just a test"
 ---
+{% include toc title="HELLO WORLD" icon="file-text" %}
 
-Lorem Ipsum
+
+## Lorem Ipsum
+
+1 2 3 A B C
+
+## more testing
+
+again ...
+
+### h3 test
+
+blah blah blah
