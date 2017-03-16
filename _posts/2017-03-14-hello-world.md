@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "hello world"
+title: "Hejsan Världen"
 redirect_from:
   - /notes/hello-world/
 author: ojn
@@ -13,18 +13,18 @@ tags:
 comments: true
 header:
   image: /images/jekyll.png
-  caption: "just a test"
+  caption: "detta är bara ett test så det finns inget speciellt här att läsa"
 ---
-{% include toc title="HELLO WORLD" icon="file-text" %}
+{% include toc title="Hejsan svejsan" icon="file-text" %}
 
 
 ## Lorem Ipsum
 
 1 2 3 A B C
 
-## more testing
+## testa mer
 
-again ...
+lite mer text ...
 
 ### h3 test
 
