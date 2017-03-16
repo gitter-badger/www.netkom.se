@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: About
+title: Om den här sidan
 author_profile: false
-excerpt: "about page"
+excerpt: "mer om den här sidan"
 tags:
  - about
 header:
