@@ -4,7 +4,9 @@ main:
 #    url: /notes/
   - title: "netkom"
     url: https://www.netkom.se/
-  - title: "NOTES"
+    - title: "Wiki (Github)"
+    url: https://github.com/ojn/www.netkom.se/wiki
+  - title: "Anteckningar"
     url: /notes/
   - title: "test"
     url: /test/
