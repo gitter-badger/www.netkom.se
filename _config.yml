@@ -175,6 +175,7 @@ gems:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-archives
+  - jekyll-asciidoc
 
 # mimic GitHub Pages with --safe
 whitelist:
