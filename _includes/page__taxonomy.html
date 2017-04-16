@@ -1,8 +1,8 @@
 {% if site.tag_archive.type and page.tags[0] %}
-  <p class="page__taxonomy">
+  <p class="fa fa-spinner fa-spin fa-fw">
    <span itemprop="keywords">
  {% for tag in page.tags %}
-<a href="/tags/{{tag}}/" class="fa fa-spinner fa-spin fa-fw"><strong>{{ tag }}</strong></a> {% endfor %}
+<a href="/tags/{{tag}}/"><strong>{{ tag }}</strong></a> {% endfor %}
 {% endif %}
    </span>
   </p>
