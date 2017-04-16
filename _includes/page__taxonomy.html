@@ -1,7 +1,10 @@
 {% if site.tag_archive.type and page.tags[0] %}
-
+<i class="fa fa-fw fa-tags">
+ <li>
  {% for tag in page.tags %}
-<a href="/tags/{{tag}}/" class="btn">{{ tag }}</a> {% endfor %}
+<a href="/tags/{{tag}}/">{{ tag }}</a> {% endfor %}
+ </li>
+</i>
 {% endif %}
 
 
