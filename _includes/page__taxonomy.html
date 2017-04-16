@@ -1,7 +1,7 @@
 {% if site.tag_archive.type and page.tags[0] %}
 
  {% for tag in page.tags %}
-<a href="/tags/{{tag}}/"class="btn" rel="tag">{{ tag }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %} {% endfor %}
+<a href="/tags/{{tag}}/" class="btn btn-primary" role="button">{{ tag }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %} {% endfor %}
 {% endif %}
 
 
