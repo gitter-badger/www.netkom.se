@@ -2,7 +2,7 @@
   <p class="page__taxonomy">
    <span itemprop="keywords">
  {% for tag in page.tags %}
-<a href="/tags/{{tag}}/"><strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i>{{ tag }}</strong></a> {% endfor %}
+<a href="/tags/{{tag}}/" class="btn {{ f.btn_class }}"><strong>{{ tag }}</strong></a> {% endfor %}
 {% endif %}
    </span>
   </p>
