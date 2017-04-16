@@ -1,6 +1,16 @@
 ---
-layout: page
+layout: default
 ---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
 
 <h1>{{ page.tag | capitalize }}</h1>
 
@@ -19,3 +29,5 @@ layout: page
     <a href="/tags/{{tag | first}}/" style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px">{{ tag[0] }} | </a>
     {% endfor %}
 </p>
+
+      {% include post_pagination.html %}
