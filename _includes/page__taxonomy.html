@@ -1,11 +1,10 @@
 {% if site.tag_archive.type and page.tags[0] %}
-  <p class="fa fa-spinner fa-spin fa-fw">
-   <span itemprop="keywords">
+
  {% for tag in page.tags %}
-<a href="/tags/{{tag}}/"><strong>{{ tag }}</strong></a> {% endfor %}
+<a href="/tags/{{tag}}/" class="btn"><strong>{{ tag }}</strong></a> {% endfor %}
 {% endif %}
-   </span>
-  </p>
+
+
 {% if site.category_archive.type and page.categories[0] %}
   {% include category-list.html %}
 {% endif %}
