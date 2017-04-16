@@ -1,8 +1,11 @@
 {% if site.tag_archive.type and page.tags[0] %}
+  <p class="page__taxonomy">
+   <span itemprop="keywords">
  {% for tag in page.tags %}
 <a href="/tags/{{tag}}/"><strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i>{{ tag }}</strong></a> {% endfor %}
 {% endif %}
-
+   </span>
+  </p>
 {% if site.category_archive.type and page.categories[0] %}
   {% include category-list.html %}
 {% endif %}
