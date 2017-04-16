@@ -12,6 +12,11 @@ layout: default
   {% endunless %}
 {% endif %}
 
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+    
 <h1>{{ page.tag | capitalize }}</h1>
 
 <ul>
@@ -21,6 +26,9 @@ layout: default
     </li>
     {% endfor %}
 </ul>
+    
+      </div>
+</div>
 
 <!-- Tags List -->
 <hr>
@@ -30,4 +38,3 @@ layout: default
     {% endfor %}
 </p>
 
-      {% include post_pagination.html %}
