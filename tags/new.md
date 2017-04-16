@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: tagpage
 tag: new
 permalink: /tags/new/
 ---
