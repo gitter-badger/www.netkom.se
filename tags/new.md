@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: default
 tag: new
 permalink: /tags/new/
 ---
