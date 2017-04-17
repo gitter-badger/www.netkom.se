@@ -1,5 +1,5 @@
 ---
 layout: default
 tag: ny
-permalink: /tags/test/
+permalink: /tags/ny/
 ---
