@@ -2,7 +2,7 @@
 layout: single
 title: "Hello again"
 redirect_from:
-  - /notes/hello-world/
+  - /notes/hello-again/
 author: ojn
 excerpt: "testa testa"
 modified: 2017-04-17
