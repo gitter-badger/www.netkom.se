@@ -1,7 +1,8 @@
 The MIT License (MIT)
 
 Jekyll: Copyright (c) 2008-2017 Tom Preston-Werner and Jekyll contributors
-Minimal Mistakes: Copyright (c) 2016 Michael Rose
+
+Minimal Mistakes: Copyright (c) 2016-2017 Michael Rose
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
