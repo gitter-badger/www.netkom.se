@@ -1,6 +1,6 @@
 ---
-permalink: /test/
-title: test
+permalink: /testing/
+title: testing
 redirect_from:
   - /relate.html
 author_profile: false
