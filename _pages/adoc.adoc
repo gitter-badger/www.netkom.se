@@ -5,5 +5,6 @@ title: Asciidoctor
 = Sample Page
 :uri-asciidoctor: http://asciidoctor.org
 
-This is a sample page composed in AsciiDoc.
+include::test.adoc[tags=asciidoc]
+
 Jekyll converts it to HTML using {uri-asciidoctor}[Asciidoctor].
