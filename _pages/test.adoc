@@ -1,0 +1,12 @@
+---
+permalink: /test/
+title: Test
+---
+= Sample Page
+:uri-asciidoctor: http://asciidoctor.org
+
+// tag::asciidoc[]
+This is a sample page composed in AsciiDoc.
+// end::asciidoc[]
+
+Jekyll converts it to HTML using {uri-asciidoctor}[Asciidoctor].
