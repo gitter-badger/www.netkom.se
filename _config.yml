@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "www.netkom.se"
+title                    : "internet|kommunikation"
 title_separator          : "-"
-description              : "internet|kommunikation"
+description              : "netkom - internet|kommunikation"
 url                      : "https://www.netkom.se"
 repository               : "ojn/netkom"
 # breadcrumbs            : false # true, false (default)
