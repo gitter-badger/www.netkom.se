@@ -2,10 +2,10 @@
 main:
 #  - title: "notes"
 #    url: /notes/
-  - title: "Wiki (Github)"
-    url: https://github.com/ojn/www.netkom.se/wiki
   - title: "Anteckningar"
     url: /notes/
+  - title: "Wiki (Github)"
+    url: https://github.com/ojn/www.netkom.se/wiki
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
