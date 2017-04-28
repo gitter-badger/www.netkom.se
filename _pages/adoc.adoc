@@ -7,6 +7,6 @@ title: Asciidoctor
 
 hello world
 
-include::test.adoc[tags=asciidoc]
+include::test.adoc[]
 
 Jekyll converts it to HTML using {uri-asciidoctor}[Asciidoctor].
