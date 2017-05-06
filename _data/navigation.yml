@@ -2,8 +2,8 @@
 main:
 #  - title: "notes"
 #    url: /notes/
-  - title: "Anteckningar"
-    url: /notes/
+  - title: "Internet"
+    url: /internet/
   - title: "Wiki (Github)"
     url: https://github.com/ojn/www.netkom.se/wiki
   - title: "Diskussion (Gitter)"
