@@ -4,6 +4,10 @@ main:
 #    url: /notes/
   - title: "Internet"
     url: /internet/
+  - title: "Kommunikation"
+    url: /kommunikation/
+  - title: "Data"
+    url: /data/
   - title: "Wiki (Github)"
     url: https://github.com/ojn/www.netkom.se/wiki
   - title: "Diskussion (Gitter)"
