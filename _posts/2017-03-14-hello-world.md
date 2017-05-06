@@ -10,6 +10,8 @@ photoswipe: true
 tags:
 - internet
 - hello-world
+categories:
+- data
 comments: true
 header:
   image: /images/jekyll.png
