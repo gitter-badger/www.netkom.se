@@ -32,6 +32,6 @@ Digitala friheter räknas ofta till mänskliga rättigheter av olika domstolsins
 
 ## Vad kan man göra åt att stärka digitala friheter i samhället?
 
-Engagera dig, skriv brev till Riksdagsledamöter och tala om var du står i dessa frågor. Anmäl otillbörlig användning av persouppgifter till Datainspektionen. Bli medlem i föreningar som värnar om digital frihet, t.ex (https://www.dfri.se/) och (https://dataskydd.net/) . Använd fri mjukvara och lägg inte upp [personlig information](https://sv.wikipedia.org/wiki/Personuppgiftslagen) av andra på nätet så länge de inte har gett dig ett samtycke. 
+Engagera dig, skriv brev till Riksdagsledamöter och tala om var du står i dessa frågor. Anmäl otillbörlig användning av persouppgifter till Datainspektionen. Bli medlem i föreningar som värnar om digital frihet, t.ex [Dfri](https://www.dfri.se/) och [Dataskydd.net](https://dataskydd.net/) . Använd fri mjukvara och lägg inte upp [personlig information](https://sv.wikipedia.org/wiki/Personuppgiftslagen) av andra på nätet så länge de inte har gett dig ett samtycke. 
 
 
