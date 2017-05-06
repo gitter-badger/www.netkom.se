@@ -2,14 +2,14 @@
 layout: single
 title: "Hejsan Världen"
 redirect_from:
-  - /notes/hello-world/
+  - /internet/hello-world/
 author: ojn
 excerpt: "testing 1 2 3"
 modified: 2017-03-14
 photoswipe: true
 tags:
-- test
-- new
+- internet
+- hello-world
 comments: true
 header:
   image: /images/jekyll.png
