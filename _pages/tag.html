@@ -5,6 +5,8 @@ title: "Posts by Tags"
 author_profile: false
 ---
 
+{% include base_path %}
+{% include group-by-array collection=site.posts field="tags" %}
 {% comment %}
 =======================
 The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
