@@ -1,11 +1,11 @@
-{% case site.tag.type %}
+{% case site.tag_archive.type %}
   {% when "liquid" %}
     {% assign path_type = "#" %}
   {% when "jekyll-archives" %}
     {% assign path_type = nil %}
 {% endcase %}
 
-{% if site.tag.path %}
+{% if site.tag_archive.path %}
   {% comment %}
     <!-- Sort alphabetically regardless of case e.g. a B c d E -->
     <!-- modified from http://www.codeofclimber.ru/2015/sorting-site-tags-in-jekyll/ -->
