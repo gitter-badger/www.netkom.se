@@ -2,12 +2,8 @@
 main:
 #  - title: "notes"
 #    url: /notes/
-  - title: "Internet"
-    url: /internet/
-  - title: "Kommunikation"
-    url: /kommunikation/
-  - title: "Data"
-    url: /data/
+  - title: "Artiklar"
+    url: /artiklar/
   - title: "Wiki (Github)"
     url: https://github.com/ojn/www.netkom.se/wiki
   # - title: "Sample Posts"
