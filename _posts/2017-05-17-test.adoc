@@ -17,8 +17,9 @@ header:
   caption: "detta är bara ett test så det finns inget speciellt här att läsa"
 ---
 = Asciidoc is great!
-:toc:
 :uri-asciidoctor: http://asciidoctor.org
+
+{% include toc title="Hejsan svejsan" icon="file-text" %}
 
 hello world
 
