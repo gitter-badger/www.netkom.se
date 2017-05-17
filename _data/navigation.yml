@@ -4,8 +4,10 @@ main:
 #    url: /notes/
   - title: "Artiklar"
     url: /artiklar/
-  - title: "Wiki (Github)"
+  - title: "Wiki"
     url: https://github.com/ojn/www.netkom.se/wiki
+  - title: "Search"
+    url: https://duckduckgo.com/search.html?width=200&site=https://www.netkom.se
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
