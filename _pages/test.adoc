@@ -1,6 +1,7 @@
 ---
-permalink: /test/
+layout: single
 title: Test
+permalink: /test/
 ---
 = Sample Page
 :toc:
