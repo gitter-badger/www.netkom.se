@@ -1,0 +1,33 @@
+---
+layout: single
+title: "Test adoc"
+redirect_from:
+  - /internet/test/
+author: ojn
+excerpt: "test asciidoc"
+modified: 2017-05-17
+photoswipe: true
+tags:
+- test
+categories:
+- internet
+comments: true
+header:
+  image: /images/jekyll.png
+  caption: "detta är bara ett test så det finns inget speciellt här att läsa"
+---
+
+== This is  AsciiDoc!
+
+Great!
+
+=== Some more stuff
+
+sdjijifj
+sjkdjs djdh
+
+== Test test
+
+test 
+
+blah blah
