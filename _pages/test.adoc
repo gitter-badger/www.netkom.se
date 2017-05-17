@@ -3,9 +3,21 @@ permalink: /test/
 title: Test
 ---
 = Sample Page
+:toc:
 :uri-asciidoctor: http://asciidoctor.org
 
 
-This is  AsciiDoc!
+== This is  AsciiDoc!
 
 Great!
+
+=== Some more stuff
+
+sdjijifj
+sjkdjs djdh
+
+== Test test
+
+test 
+
+blah blah
