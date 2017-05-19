@@ -5,7 +5,7 @@ redirect_from:
   - /internet/test/
 author: ojn
 excerpt: "test asciidoc"
-modified: 2017-05-19
+modified: 2017-05-18
 photoswipe: true
 tags:
 - test
