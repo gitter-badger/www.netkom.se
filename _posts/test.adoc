@@ -5,7 +5,7 @@ redirect_from:
   - /internet/test/
 author: ojn
 excerpt: "test asciidoc"
-modified: 2017-05-17
+modified: 2017-05-19
 photoswipe: true
 tags:
 - test
@@ -30,6 +30,11 @@ Great!
 
 sdjijifj
 sjkdjs djdh
+
+```
+:abc abc: foo bar baz
+```
+
 
 == Test test
 
