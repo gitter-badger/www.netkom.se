@@ -49,15 +49,12 @@ foo bar baz testing
 
 == Test test
 
-test dsv
-:tab: ../tabeller/
-// tabeller finns i {tab}
-
-[format="dsv", options="header"]
-|===
-include::{tab}/test.dsv[]
-|===
+image: https://www.netkom.se/images/u.svg
 
 blah blah 
 
+:atom: https://atom.io[Atom Editor]
+
 123
+
+{atom} is created by Github
