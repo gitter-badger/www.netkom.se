@@ -49,7 +49,7 @@ foo bar baz testing
 
 == Test test
 
-image: https://www.netkom.se/images/u.svg
+image::https://www.netkom.se/images/u.svg[]
 
 blah blah 
 
