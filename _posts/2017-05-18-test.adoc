@@ -31,13 +31,33 @@ Great!
 sdjijifj
 sjkdjs djdh
 
-```
-:abc abc: foo bar baz
-```
+....
+foo bar baz testing
+....
 
+.En enkel tabell
+[]
+|===
+| Kolumn rubrik A | Kolumn rubrik B | Kolumn rubrik C
+
+| test A1        | test B1        | test C1
+
+| test A2        | test B2        | test C2
+
+| test A3        | test B3        | test C3
+|===
 
 == Test test
 
-test 
+test dsv
+:tab: https://www.netkom.se/tabeller
+// tabeller finns i {tab}
 
-blah blah
+[format="dsv", options="header"]
+|===
+include::{tab}/test.dsv[]
+|===
+
+blah blah 
+
+123
