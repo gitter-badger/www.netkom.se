@@ -50,7 +50,7 @@ foo bar baz testing
 == Test test
 
 test dsv
-:tab: ../tabeller
+:tab: ../tabeller/
 // tabeller finns i {tab}
 
 [format="dsv", options="header"]
