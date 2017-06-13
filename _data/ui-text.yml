@@ -60,8 +60,8 @@ sv: &DEFAULT_SV
   menu_label                 : "Meny ridå"
   toc_label                  : "På denna sida"
   ext_link_label             : "Direkt länk"
-  less_than                  : "≤"
-  minute_read                : "minut läsning"
+  less_than                  : "Mindre än"
+  minute_read                : "minuts läsning"
   share_on_label             : "Dela på"
   meta_label                 :
   tags_label                 : "Taggar:"
