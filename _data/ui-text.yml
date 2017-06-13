@@ -53,14 +53,14 @@ en-AU:
 # -----------------
 sv: &DEFAULT_SV
   page                       : "Sidan"
-  pagination_previous        : "Föregående"
-  pagination_next            : "Nästa"
+  pagination_previous        : "⇦ Föregående"
+  pagination_next            : "Nästa ⇨"
   breadcrumb_home_label      : "Hem"
   breadcrumb_separator       : "/"
   menu_label                 : "Meny ridå"
   toc_label                  : "På denna sida"
   ext_link_label             : "Direkt länk"
-  less_than                  : "mindre än"
+  less_than                  : "≤"
   minute_read                : "minut läsning"
   share_on_label             : "Dela på"
   meta_label                 :
